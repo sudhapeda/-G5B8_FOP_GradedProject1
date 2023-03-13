@@ -2,6 +2,7 @@ package com.greatlearning.department.driver;
 
 import com.greatlearning.department.model.AdminDepartment;
 import com.greatlearning.department.model.HrDepartment;
+import com.greatlearning.department.model.SuperDepartment;
 import com.greatlearning.department.model.TechDepartment;
 
 public class Driver {
